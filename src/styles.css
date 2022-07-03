@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+tr,
+td,
+table {
+  border: 1px solid grey;
+}
+
+.render__details {
+  margin: 10vw auto;
+  background-color: red;
+}
